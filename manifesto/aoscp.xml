@@ -3,7 +3,7 @@
 
   <!-- Manifest & Build Environment -->
   <!-- <project path="platform_manifest" name="platform_manifest" remote="aoscp" /> -->
-  <project path="build" name="build" groups="pdk" remote="aoscp">
+  <project path="build" name="build" groups="pdk" remote="moon">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
