@@ -21,7 +21,8 @@
            revision="refs/heads/nougat-mr2" />
   
   <remote  name="moon"
-           fetch="https://github.com/moonlightdrive1" />
+           fetch="https://github.com/moonlightdrive1" 
+           revision="refs/heads/nougat-mr2" />
   
   <remote  name="aoscp"
            fetch="https://github.com/CypherOS"
