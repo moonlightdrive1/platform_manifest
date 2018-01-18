@@ -18,8 +18,7 @@
 
   <remote  name="github"
            fetch="https://github.com/" 
-           revision="refs/heads/nougat-mr2"
-           />
+           revision="refs/heads/nougat-mr2" />
   
   <remote  name="moon"
            fetch="https://github.com/moonlightdrive1" />
