@@ -17,8 +17,13 @@
            revision="refs/tags/LA.UM.5.8.r1-03000-8x98.0" />
 
   <remote  name="github"
-           fetch="https://github.com/" />
-
+           fetch="https://github.com/" 
+           revision="refs/heads/nougat-mr2"
+           />
+  
+  <remote  name="moon"
+           fetch="https://github.com/moonlightdrive1" />
+  
   <remote  name="aoscp"
            fetch="https://github.com/CypherOS"
            review="gerrit.cypheros.co"
